@@ -4,7 +4,7 @@
 
 Aivition 是一款高性能的 Windows 图像处理工具，可以快速看图、浏览图片集、处理图片，还有 AI 抠图和高清放大功能。
 
-当前最新版本：0.6.4
+当前最新版本：1.0.1
 
 [Aivition 主页](https://www.aivition.com/)
 
