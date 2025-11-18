@@ -1,4 +1,4 @@
-Aivition - 超轻快、简单好用的图片处理软件
+Aivition - 轻快好用的图片处理软件
 =
 Aivition 是一款综合性的图片处理工具。它的软件体积极小，启动速度极快，可以用来快速看图，还可以瀑布流式浏览数量庞大的图片集。同时，它包含一张无限画布，就像在桌面一样可以自由排列组合图片；当你想处理图片时，只需右键图片，便会弹出编辑菜单，既有常规的裁剪、旋转，还有抠图、高清放大、换脸 AI 功能。
 
@@ -9,7 +9,7 @@ Aivition 是一款综合性的图片处理工具。它的软件体积极小，�
 ![image](https://github.com/Okery/Aivition_zh/blob/main/assets/rgb.png)
 
 ### :sun_with_face: AI 换脸
-
+![image](https://github.com/Okery/Aivition_zh/blob/main/assets/face swap.png)
 
 ## :zap: 下载
 [点击下载](https://www.aivition.com/ewrlklksd)
