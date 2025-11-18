@@ -9,7 +9,7 @@ Aivition 是一款综合性的图片处理工具。它的软件体积极小，�
 ![image](https://github.com/Okery/Aivition_zh/blob/main/assets/rgb.png)
 
 ### :sun_with_face: AI 换脸
-![image](https://github.com/Okery/Aivition_zh/blob/main/assets/face swap.png)
+![image](https://github.com/Okery/Aivition_zh/blob/main/assets/face_swap.png)
 
 ## :zap: 下载
 [点击下载](https://www.aivition.com/ewrlklksd)
