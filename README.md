@@ -5,7 +5,7 @@ Aivition 是一款综合性的图片处理工具。它的软件体积极小，�
 ![image](https://github.com/Okery/Aivition_zh/blob/main/assets/viewer.jpg)
 ## 功能演示
 ### 颜色变换，R、G、B 自由组合
-
+![image](https://github.com/Okery/Aivition_zh/blob/main/assets/rgb.png)
 
 ## 下载
 [点击下载](https://www.aivition.com/ewrlklksd)
