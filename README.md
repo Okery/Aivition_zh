@@ -12,6 +12,9 @@ Aivition 是一款综合性的图片处理工具。它的软件体积极小，�
 ![image](https://github.com/Okery/Aivition_zh/blob/main/assets/face_swap.png)
 
 ## :zap: 下载
+```
+git clone https://github.com/Okery/Aivition_zh.git
+```
 [点击下载](https://www.aivition.com/ewrlklksd)
 - 支持平台：Windows 10/11
 - 便携版，无需安装，解压即用。
